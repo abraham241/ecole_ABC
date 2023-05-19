@@ -1,0 +1,45 @@
+#message {
+    min-height: 300px;
+    margin: 20px 0;
+    resize: none;
+}
+
+#btn-contact {
+    position: relative;
+    width: 100%;
+    color: #fff;
+}
+
+.champ {
+    width: 100%;
+    color: #fff;
+    background: #29313C;
+    border: none;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.inscription a {
+    color: #fff;
+}
+
+.texte-header {
+    padding-left: 100px;
+}
+
+.marge-top {
+    margin-top: 50px;
+}
+
+.btn-format {
+    margin: 0 !important;
+}
+
+.mr-0 {
+    margin-left: 50px !important;
+}
+
+.img-200 {
+    width: 100%;
+    max-width: 750px;
+}
